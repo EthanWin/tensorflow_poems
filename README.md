@@ -67,15 +67,6 @@ If you want talk about AI, visit our website (for now):  http://ai.loliloli.pro 
 
 # Quick Start
 
-using **LiBai** is very simple:
-
-```
-git clone https://github.com/jinfagang/tensorflow_poems
-# train on poems
-python3 train.py
-# compose poems
-python3 compose_poem.py
-```
 
 LSTM
 https://github.com/jinfagang/tensorflow_poems
