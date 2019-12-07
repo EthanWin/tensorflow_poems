@@ -37,17 +37,22 @@ Here you can get some previews about our projects: http://ai.loliloli.pro (stran
 
 LSTM
 
+
+
 1.	
 
-c:\~\git clone https://github.com/jinfagang/tensorflow_poems
+c:\~\conda create -n lstm pip python=3.6
 
 2.	
 
-c:\~\conda create -n tensorflow_cpu pip python=3.6
+c:\~\conda activate lstm
 
-3.	
+3.
+c:\~\conda install git
 
-c:\~\activate tensorflow_cpu
+c:\~\git clone https://github.com/jinfagang/tensorflow_poems
+
+
 
 4.	
 
