@@ -65,6 +65,8 @@ c:\~\pip install --ignore-installed --upgrade tensorflow==1.9
 
 tf.app.flags.DEFINE_integer('epochs',2,'train how many epochs.')
 
+c:\~\cd tensorflow_poems
+
 c:\~\python train.py
 
 c:\~\python compose_poem.py
